@@ -5,9 +5,11 @@ ETH high performance computing course
 
 PCA for figure compression:
 
-NPC	Compress ratio
-1	12700 %
-30	900 %
-50	500 %
+NPC	Compress ratio\
+1	  12700 %\
+30	900 %\
+50	500 %\
 100	200 %
+
+
 
