@@ -11,6 +11,6 @@ PCA for figure compression in C++: detail see ex06.pdf
 
 ## summary ##
 
-
+Idea behind PCA: see PCA_NN_Diff.pdf
 
 
