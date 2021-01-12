@@ -5,9 +5,11 @@ ETH high performance computing course
 
 PCA for figure compression in C++: detail see ex06.pdf
 
-## ex08 ##
+## ex8 nad ex9 ##
 
-2D diffusion in C++ with Openmp and MPI
+2D diffusion in C++ with OpenMP and MPI
+
+## summary ##
 
 
 
